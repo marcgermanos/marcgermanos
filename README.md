@@ -1,9 +1,13 @@
 ## Hi I'm Marc 👋
 
 🎓 Software Engineering Student @ McGill University
+
 📍 Montreal, Québec
+
 🌟 Faculty of Engineering Dean's Honour List | Huawei Scholarship Recipient
+
 📈 CGPA: 3.96
+
 
 🧑‍💻 About Me
 
@@ -41,17 +45,21 @@ Developed a responsive interface for stepper motor control and set up RS485 seri
 
 ServiceNow Software Developer Intern @ Desjardins (May 2025 – Aug 2025)
 
-      -Redesigned a deployment application by analyzing an outdated system.
-  
-      -Collaborated with developers to deliver new features while ensuring high-quality code.
 
-      -Built a functional online shop from scratch after rapid technical training.
+    Redesigned a deployment application by analyzing an outdated system.
+  
+    Collaborated with developers to deliver new features while ensuring high-quality code.
+  
+    Built a functional online shop from scratch after rapid technical training.
+
+
 
 Mechatronics Intern @ Robotics-Design (May 2024 – Jul 2024)
 
-      -Developed UI and embedded code for stepper motor control (RaspberryPi & ESP32).
+
+    Developed UI and embedded code for stepper motor control (RaspberryPi & ESP32).
   
-      -Implemented power consumption strategies and multi-motor communication.
+    Implemented power consumption strategies and multi-motor communication.
 
 
 🌐 Connect with Me
