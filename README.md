@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi, I'm Marc 👋
+## Hi I'm Marc 👋
 
 🎓 Software Engineering Student @ McGill University
 📍 Montreal, Québec
