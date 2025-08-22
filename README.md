@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 Hi, I'm Marc 👋
 
 🎓 Software Engineering Student @ McGill University
