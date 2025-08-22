@@ -47,5 +47,7 @@ Mechatronics Intern @ Robotics-Design (May 2024 – Jul 2024)
   Implemented power consumption strategies and multi-motor communication.
 
 🌐 Connect with Me
+
 📧 Email: marc.germanos@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/marc-germanos-075023291/
